@@ -1,0 +1,6 @@
+Build USA 2.0 BETA
+
+Contenido listo para publicar en una dirección separada.
+No subir estos archivos al proyecto de la versión antigua.
+Archivo principal: index.html
+Precisión: redondeo al 1/8 de pulgada.
